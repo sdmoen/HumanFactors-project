@@ -6,6 +6,19 @@ border: none;
 
 }
 body {
-    font-family: Montserrat;
+    font-family: Montserrat, sans-serif;
     font-weight:400;
+    color:#3a3a3a;
+}
+
+h1, h2 {
+    font-family:lato, sans-serif;
+    text-transform:uppercase;
+    letter-spacing: 4px;
+    color: #252525;
+}
+
+#logo {
+    float:left;
+    font-size: 280%;
 }
