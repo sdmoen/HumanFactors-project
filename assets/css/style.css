@@ -21,6 +21,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 200%;
+    margin-left:30px;
 }
 
 #menu {
@@ -97,4 +98,31 @@ animation-fill-mode: forwards;
     right:10px;
 
     position:absolute;
+}
+
+/*causes and effects */
+
+#causes-effects {
+    height:400px;
+
+}
+
+#left-about {
+    padding-top:30px;
+    width: 33%;
+    float:left;
+    background-color:yellow;
+}
+
+#right-about {
+    padding-top:30px;
+    width:33%;
+    float: right;
+    background-color:skyblue;
+}
+
+#center-about {
+    width:33%;
+    margin: 0 auto;
+    background-color:yellowgreen;
 }
