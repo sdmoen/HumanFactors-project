@@ -66,6 +66,7 @@ h2 {
     color: #fff;
 }
 
+
 #hf-image {
     height: 400px;
     width: 100%;
@@ -127,8 +128,7 @@ h2 {
 #center-about {
     width: 33%;
     margin: 0 auto;
-    mobile-display: none;
-    flex-wrap: wrap;
+    
 }
 
 hr {
@@ -201,5 +201,30 @@ hr {
 
 #info h2 {
     padding: 0 0 25px;
-    color: white;
+    color: black;
+}
+
+/* footer */
+
+footer {
+    height:150px;
+}
+
+.networks {
+    text-align:center;
+}
+
+.networks {
+    display:inline;
+}
+
+.networks i {
+font-size: 160%;
+margin:1%;
+padding:5%;
+color:#0f0f0f;
+}
+
+#copyright {
+    text-align: center;
 }
