@@ -204,6 +204,34 @@ hr {
     color: black;
 }
 
+/* sign up form */
+
+.form {
+    font-size: 2eam;
+    letter-spacing: 4px;
+    padding: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-size: cover;
+    background-color:rgba(208, 245, 46, 0.959);
+    column-rule-style: inherit;
+    
+}
+
+.inputs {
+line-height: 20%;
+}
+
+.input:hover {
+    border-color:darkgray;
+}
+
+#free-course { 
+    margin-bottom: 40px;
+}
+
 /* footer */
 
 footer {
