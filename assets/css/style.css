@@ -160,30 +160,36 @@ hr {
     text-align: right;
 }
 
-#below {
+ #below {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-
 }
+
+
 
 .below-skills {
     width: 60%;
     line-height: 20px;
-    margin-bottom: 50px;
     text-align: center;
 }
 
 #below-about {
     padding-top: 30px;
     width: 33%;
+    text-align: center;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+   
 }
 
 #welcome {
     text-align: center;
     margin: 20px 0;
-    font-size: 280%;
+    font-size: 2rem;
 }
 
 #circle-container {
