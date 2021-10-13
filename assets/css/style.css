@@ -167,8 +167,6 @@ hr {
     justify-content: center;
 }
 
-
-
 .below-skills {
     width: 60%;
     line-height: 20px;
@@ -232,31 +230,39 @@ hr {
 
 /* sign up form */
 
+.join-up {
+    padding:30px 30px 30px 30px;
+}
+
+.free-course {
+    text-align: center;
+    margin: 10px 0 40px 0;
+    font-size: 1.5rem;
+}
+
 .form {
     font-size: 2eam;
     letter-spacing: 4px;
-    padding: 60px;
+    padding: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     background-size: cover;
     background-color:rgba(208, 245, 46, 0.959);
-    
+    border: 1px solid black;
+    height:300px;
     
 }
 
 .inputs {
-line-height: 20%;
+line-height: 50%;
+margin:auto;
 
 }
 
 .input:hover {
     border-color:darkgray;
-}
-
-#free-course { 
-    margin-bottom: 40px;
 }
 
 /* footer */
@@ -291,6 +297,12 @@ color:#0f0f0f;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+.incid {
+    text-align: center;
+    margin: 20px;
+    font-size: 2rem;
 }
 
 /* media Query */
