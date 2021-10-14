@@ -298,10 +298,21 @@ color:#0f0f0f;
     justify-content: center;
 }
 
-.incid {
+.cata {
     text-align: center;
+}
+
+.incid {
+    /* text-align: center; */
     margin: 20px;
     font-size: 2rem;
+}
+
+.disasters {
+    border:2px;
+    text-align: center;
+    margin: 20px;
+    font-size: 1.5rem; 
 }
 
 /* media Query */
