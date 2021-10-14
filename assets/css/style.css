@@ -62,24 +62,24 @@ h2 {
     background: url(../images/hf-image.png) center center;
 }
 
-    /* animates zoom effect on loading page */
+    /* animates zoom effect on loading page
 
     #hf-image
     {   
     animation-name: hf-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
-}
+} */
 
 /*creates the level of zoom for the hero image scale(1) scale(1.1) */
-@keyframes hf-zoom {
+/* @keyframes hf-zoom {
     from {
         transform: lscale(1);
     }
     to {
         transform: scale(1.1);
     }
-}
+} */
 
 #fixed-text {
     width: 250px;
@@ -156,7 +156,7 @@ hr {
     text-align: right;
 }
 .right-about-heading p {
-    text-align: right;
+    text-align:center;
 }
 
  #below {
@@ -190,14 +190,20 @@ hr {
 }
 
 #circle-container {
-    width: 300px;
+    /* width: 300px;
     height: 300px;
     padding: 30px;
     border-style: solid;
     border-color: #ccc;
     border-width: 1px;
     border-radius: 50%;
-    margin: 0 auto;
+    margin: 0 auto; */
+    position: relative;
+    margin: 1em auto;
+    width: 25em; height: 17.32em;
+    border-radius: 1em/.5em;
+    background: rgba(208, 245, 46, 0.959);
+    transition: opacity .5s;
 }
 
 #circle-cover-bg {
