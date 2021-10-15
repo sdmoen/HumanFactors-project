@@ -10,7 +10,7 @@
 <img src="assets/images/hf-logo.jpg">
 
 
-<a href="https://sdmoen.github.io/humanfactors-project/">Link to website</a>
+<a href="https://sdmoen.github.io/humanfactors-project/" target="_blank">Link to website</a>
 
 
 <H2>User Experience (UX)</H2>
