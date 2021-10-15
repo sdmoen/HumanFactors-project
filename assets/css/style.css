@@ -300,9 +300,9 @@ color:#0f0f0f;
 
 .cata {
     display:flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center; 
+     flex-direction: column;
+     align-items: center;
+     justify-content: center; 
 }
 
 .incid {
@@ -329,6 +329,7 @@ color:#0f0f0f;
     #skills {
         padding: 32px 0;
         margin:0;
+        height: 1100px
     }
 
     #left-skills, #right-skills {
