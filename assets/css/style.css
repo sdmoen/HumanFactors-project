@@ -123,6 +123,7 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
+    /* list-style-type: none; */
 }
 
 .right-skills-pic {
@@ -151,6 +152,15 @@ hr {
     width: 60%;
     line-height: 20px;
     text-align: center;
+    list-style-type: none;
+}
+
+#skill-list{
+    list-style-type: none;
+    /* display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center; */
 }
 
 #below-skills-pic {
@@ -159,7 +169,7 @@ hr {
     align-items: center;
     justify-content: center;
     padding-bottom: 32px;
-   
+    
 }
 
 #learn-skills {
