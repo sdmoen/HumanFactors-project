@@ -1,4 +1,5 @@
-<a href="(../assets/images/hf-logo.jpg)"></a>
+<img src="assets/images/hf-logo.jpg">
+
 
 <H2>Human factors project milestone 1</H2>
 
