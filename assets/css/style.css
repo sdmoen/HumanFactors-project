@@ -320,14 +320,19 @@ color:#0f0f0f;
 
     #left-skills, #right-skills {
         width:100%;
-        float:left;
-        padding:0;
+        display: flex;
+    flex-direction: column;
+    flex: auto;
     }
     #center-skills {
         clear:both;
         width:100%;
         float:left;
         padding:0;
+        width:100%;
+        display: flex;
+    flex-direction: column;
+    flex: auto;
     }
     hr {
         display:none;
@@ -357,11 +362,11 @@ color:#0f0f0f;
         justify-content: center; }
 
         #center-skills {
-            display: flex;
+            display: none;
         flex-direction: column;
         align-items: center;
-        justify-content: center;}
-
+        justify-content: center;
+    }
         #menu {
             display: flex;
     flex-direction: column;
@@ -369,6 +374,7 @@ color:#0f0f0f;
     justify-content: center;
         }
         .below-skills {
+            width:100%;
             display: none;
             flex-direction: column;
             align-items: center;
