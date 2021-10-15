@@ -14,16 +14,39 @@
 
 
 <H2>User Experience (UX)</H2>
+<details><summary></summary>
+<li>Visitor Goals</li>
+(As a user I would sign up to learn about the different impacts human factors can have on an industry.)
+(See the benefits and skills to be learned from the course.)
+
+<li>Developer Goals</li>
+(Increase industry safety awareness around human limitations and performance.)
+(Continue to add revelant content to course material and further develope the site.)
+</details>
 
 <details>
 <summary>User stories</summary>
 
 <ul>
-<li>Visitor Goals</li>
-<p>As a user I would sign up to learn about the different impacts human factors can have on an industry.</p>
+<li>First time User</li>
+(As a first time user, I want to know what is on offer)
+(As a first time user, I want to know of the importance of completing such a course)
+(As a first time user, I want to see some examples of what can go wrong in industries when human error is involved)
+(As a first time user, I want to avail of the free course on offer)
 
-<li>Developer Goals</li>
-<p>As a developer I would continue to add revelant content to course material and further develope the site. </p>
+<li>Returning User</li>
+(As a returning user, I want to revisit updated podcast and video learning content)
+(As a returning user, I want to revisit updated literature library content)
+(As a returning user, I want to find intermediate and advanced courses)
+
+<li>Site owner</li>
+(As the site owner, I want users to find revelant information on training)
+(As the site owner, I want users to avail of a free course and return for more advanced teachings)
+
+<li>Target Audience</li>
+(Industry professionals)
+(Environment health and safety reps)
+(Trainees, students and apprentices)
 </ul>
 </details>
 <hr>
