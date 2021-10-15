@@ -2,6 +2,8 @@
 * {
     margin: 0;
 }
+/* main section styling  */
+
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 400;
@@ -51,7 +53,7 @@ h2 {
 }
 
 
-/* hf image and cover text */
+/* hf image and fixed text link */
 
 
 #hf-image {
@@ -123,7 +125,7 @@ hr {
     line-height: 20px;
     clear: both;
     margin-bottom: 50px;
-    /* list-style-type: none; */
+    
 }
 
 .right-skills-pic {
