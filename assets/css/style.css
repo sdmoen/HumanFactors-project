@@ -16,7 +16,7 @@ h2 {
     color: #252525;
 }
 
-#logo {
+#title {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -32,7 +32,7 @@ h2 {
 }
 
 #menu,
-#logo {
+#title {
     line-height: 70px;
 }
 
@@ -58,28 +58,9 @@ h2 {
     overflow: hidden;
     position: relative;
     height: 300px;
-    /* width: 100%; */
     background: url(../images/hf-image.png) center center;
 }
 
-    /* animates zoom effect on loading page
-
-    #hf-image
-    {   
-    animation-name: hf-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-} */
-
-/*creates the level of zoom for the hero image scale(1) scale(1.1) */
-/* @keyframes hf-zoom {
-    from {
-        transform: lscale(1);
-    }
-    to {
-        transform: scale(1.1);
-    }
-} */
 
 #fixed-text {
     width: 250px;
@@ -106,25 +87,25 @@ h2 {
     border: 1px solid #3a3a3a;
 }
 
-/*skills section */
+/*skills image section */
 
 #skills {
     height: 450px;
 }
 
-#left-about {
-    padding-top: 30px;
+#left-skills {
+    padding-top: 32px;
     width: 33%;
     float: left;
 }
 
-#right-about {
-    padding-top: 30px;
+#right-skills {
+    padding-top: 32px;
     width: 33%;
     float: right;
 }
 
-#center-about {
+#center-skills {
     width: 33%;
     margin: 0 auto;
     
@@ -136,7 +117,7 @@ hr {
     margin: 5px;
 }
 
-.left-about-heading {
+.left-skills-pic {
     width: 60%;
     float: right;
     line-height: 20px;
@@ -144,7 +125,7 @@ hr {
     margin-bottom: 50px;
 }
 
-.right-about-heading {
+.right-skills-pic {
     width: 60%;
     float: left;
     line-height: 20px;
@@ -152,10 +133,10 @@ hr {
     margin-bottom: 50px;
 }
 
-.right-about-heading h2 {
-    text-align: right;
+.right-skills-pic h2 {
+    text-align:center;
 }
-.right-about-heading p {
+.right-skills-pic p {
     text-align:center;
 }
 
@@ -172,7 +153,7 @@ hr {
     text-align: center;
 }
 
-#below-about {
+#below-skills-pic {
     display: flex; 
     flex-direction: column; 
     align-items: center;
@@ -187,7 +168,7 @@ hr {
     font-size: 2rem;
 }
 
-#circle-container {
+#skills-pic-background {
     position: relative;
     margin: 1em auto;
     width: 25em; height: 24em;
@@ -196,7 +177,7 @@ hr {
     
 }
 
-#circle-cover-bg {
+#skills-cover-pic {
     background: url(../images/hf-skills.png) no-repeat center center;
     height: 100%;
 }
@@ -312,7 +293,7 @@ color:#0f0f0f;
 }
 
 .incid {
-    /* text-align: center; */
+
     margin: 20px;
     font-size: 2rem;
 }
@@ -337,12 +318,12 @@ color:#0f0f0f;
         margin:0;
     }
 
-    #left-about, #right-about {
+    #left-skills, #right-skills {
         width:100%;
         float:left;
         padding:0;
     }
-    #center-about {
+    #center-skills {
         clear:both;
         width:100%;
         float:left;
@@ -358,7 +339,7 @@ color:#0f0f0f;
 @media screen and (max-width:950px) {
 
 
-    #logo {
+    #title {
         text-align: center;
     }
 
@@ -369,13 +350,13 @@ color:#0f0f0f;
     justify-content: center;
     }
 
-    .left-about-heading, .right-about-heading .center {
+    .left-skills-pic, .right-skills-pic .center {
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center; }
 
-        #center-about {
+        #center-skills {
             display: flex;
         flex-direction: column;
         align-items: center;
