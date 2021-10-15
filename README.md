@@ -109,6 +109,8 @@
 
 <h2>Testing</h2>
 <hr>
+
+<img src="assets/images/am-i-responsive.jpg">
 <details>
 <summary>#</summary>
 <p>####
