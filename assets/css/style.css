@@ -122,7 +122,7 @@ hr {
 .left-skills-pic {
     width: 60%;
     float: right;
-    line-height: 20px;
+    line-height: 24px;
     clear: both;
     margin-bottom: 50px;
     
@@ -131,13 +131,14 @@ hr {
 .right-skills-pic {
     width: 60%;
     float: left;
-    line-height: 20px;
+    line-height: 24px;
     clear: both;
     margin-bottom: 50px;
 }
 
 .right-skills-pic h2 {
-    text-align:center;
+    text-align:left;
+    
 }
 .right-skills-pic p {
     text-align:center;
