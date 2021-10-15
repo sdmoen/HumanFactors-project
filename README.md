@@ -16,44 +16,46 @@
 <H2>User Experience (UX)</H2>
 <details><summary></summary>
 <li>Visitor Goals</li>
-(As a user I would sign up to learn about the different impacts human factors can have on an industry.)
-(See the benefits and skills to be learned from the course.)
+As a user I would sign up to learn about the different impacts human factors can have on an industry.
+As a user i would see the benefits and skills to be learned from the course.
 
 <li>Developer Goals</li>
-(Increase industry safety awareness around human limitations and performance.)
-(Continue to add revelant content to course material and further develope the site.)
+Increase industry safety awareness around human limitations and performance.
+Continue to add revelant content to course material and further develope the site.
 </details>
+<hr>
 
+<h2>User Stories.</h2>
 <details>
-<summary>User stories</summary>
+<summary></summary>
 
 <ul>
 <li>First time User</li>
-(As a first time user, I want to know what is on offer)
-(As a first time user, I want to know of the importance of completing such a course)
-(As a first time user, I want to see some examples of what can go wrong in industries when human error is involved)
-(As a first time user, I want to avail of the free course on offer)
+As a first time user, I want to know what is on offer.
+As a first time user, I want to know of the importance of completing such a course.
+As a first time user, I want to see some examples of what can go wrong in industries when human error is involved.
+As a first time user, I want to avail of the free course on offer.
 
-<li>Returning User</li>
-(As a returning user, I want to revisit updated podcast and video learning content)
-(As a returning user, I want to revisit updated literature library content)
-(As a returning user, I want to find intermediate and advanced courses)
+<li>Returning User.</li>
+As a returning user, I want to revisit updated podcast and video learning content.
+As a returning user, I want to revisit updated literature library content.
+As a returning user, I want to find intermediate and advanced courses.
 
 <li>Site owner</li>
-(As the site owner, I want users to find revelant information on training)
-(As the site owner, I want users to avail of a free course and return for more advanced teachings)
+As the site owner, I want users to find revelant information on training.
+As the site owner, I want users to avail of a free course and return for more advanced teachings.
 
-<li>Target Audience</li>
-(Industry professionals)
-(Environment health and safety reps)
-(Trainees, students and apprentices)
+<li>Target Audience.</li>
+Industry professionals.
+Environment health and safety reps.
+Trainees, students and apprentices.
 </ul>
 </details>
 <hr>
 
 
 
-<h2>Design</h2>
+<h2>Design.</h2>
 
 <details>
 <summary>For the design i took inspiration from the projects i completed at code institute and w3schools to try find my own unique design. </summary>
@@ -73,23 +75,23 @@
 
 
 
-<h2>Languages Used</h2>
+<h2>Languages Used.</h2>
 
 <details>
 <summary></summary>
 
 <ul>
-<li>html</li>
-<li>css</li>
+<li>html.</li>
+<li>css.</li>
 </ul>
 
 </details>
 <hr>
 
-<h2>Technologies and Testing </h2>
+<h2>Technologies and Testing. </h2>
 
 <details>
-<summary>Formatting and Validation</summary>
+<summary>Formatting and Validation.</summary>
 
 <p> Web Accessibility Evaluation Tool <a href="https://wave.webaim.org/report#/https://sdmoen.github.io/humanfactors-project/">WAVE</a>
 
@@ -110,11 +112,11 @@
 <details>
 <summary></summary>
 <ul>
-<li>Some difficulties with responsiveness but got there in the end i think </li>
-<li>I intended to learn how to add a google maps iframe and more information on the content page , but due to time constraints was unable to, this will be added in future </li>
-<li>I tried but was unable to add a pentagon shape in the center skills section to complement the image and the five surronding items, this will be added in future</li>
-<li>I tried but was unable to add an animation so the main image would slowly and constantly move from left to right, this will be added in future</li>
-<li>Wireframes was something i completely missed however i have made it a priority to be up to speed quickly and efficiently for the next project</li>
+<li>Some difficulties with responsiveness but got there in the end i think. </li>
+<li>I intended to learn how to add a google maps iframe and more information on the content page , but due to time constraints was unable to, this will be added in future.</li>
+<li>I tried but was unable to add a pentagon shape in the center skills section to complement the image and the five surronding items, this will be added in future.</li>
+<li>I tried but was unable to add an animation so the main image would slowly and constantly move from left to right, this will be added in future.</li>
+<li>Wireframes was something i completely missed however i have made it a priority to be up to speed quickly and efficiently for the next project.</li>
 </ul>
 </details>
 <hr>
@@ -125,7 +127,7 @@
 <details>
 <summary></summary>
 <ul>
-<li>Wepage is deployed and saved on Github.com</li>
+<li>Wepage is deployed and saved on Github.com.</li>
 </ul>
 </details>
 <hr>
@@ -134,29 +136,29 @@
 <h2>Further Learnings</h2>
 
 <details>
-<summary>Future learnings and content to be added to this webpage</summary>
+<summary>Future learnings and content to be added to this webpage.</summary>
 
 <ul>
-<li>Wireframes</li>
-<li>Time management</li>
-<li>Iframe and google maps links</li>
+<li>Wireframes.</li>
+<li>Time management.</li>
+<li>Iframe and google maps links.</li>
 <li>Audio content <a href="https://www.thisamericanlife.org/634/human-error-in-volatile-situations"> Podcast</a></li>
 <li>Video content <a href="https://www.youtube.com/watch?v=aGZz3w5Hy8Y</li>">YoutubeNHS</a></li>
-<li>Literature Library</li>
+<li>Literature Library.</li>
 </ul>
 </details>
 <hr>
 
-<h2>Credits</h2>
+<h2>Credits.</h2>
 
 <details>
 <summary></summary>
 
 <ul>
-<li>Code Institute</li>
-<li>Mentors Akshat and Mo</li>
-<li>EASA module 9 human factors book</li>
-<li>Google images for the images used</li>
+<li>Code Institute.</li>
+<li>Mentors Akshat and Mo.</li>
+<li>EASA module 9 human factors book.</li>
+<li>Google images for the images used.</li>
 
 </ul>
 </details>
