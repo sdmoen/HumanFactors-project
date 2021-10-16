@@ -94,24 +94,20 @@ h2 {
 
 #left-skills {
     padding-top: 32px;
-    width: 33%;
     float: left;
 }
 
 #right-skills {
     padding-top: 32px;
-    width: 33%;
     float: right;
 }
 
 #center-skills {
-    width: 33%;
     margin: 0 auto;
 }
 
 hr {
-    border-top: 1px dashed #474747;
-    width: 100%;
+    border-top: 5px solid rgba(197, 235, 32, 0.356);
     margin: 5px;
 }
 
@@ -143,7 +139,6 @@ hr {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-left: 30%;
 }
 
 #learn-skills {
