@@ -3,7 +3,7 @@
 
 <h2>Summary</h2>
 
-<p> Human factors is something i have study regulary as a compliance requirement for being an aircraft maintenance engineer. Recently i moved industries and quickly saw scope for human factors training in other technical industries. "Human factors" refers to the study of human capabilities and limitations in the workplace. Human factors researchers study system performance. That is, they study the interaction of maintenance personnel, the equipment they use, the written and verbal procedures and rules they follow, and the environmental conditions of any system. The aim of human factors is to optimise the relationship between maintenance personnel and systems with a view to improving safety, efficiency and well-being”. </p>
+<p> Human factors is something i have studied regulary as a compliance requirement for being an aircraft maintenance engineer. Recently i moved industries and quickly identified scope for human factors training in other technical industries. "Human factors" refers to the study of human capabilities and limitations in the workplace. Human factors researchers study system performance. That is, they study the interaction of maintenance personnel, the equipment they use, the written and verbal procedures and rules they follow, and the environmental conditions of any system. The aim of human factors is to optimise the relationship between maintenance personnel and systems with a view to improving safety, efficiency and well-being”. </p>
 
 
 
