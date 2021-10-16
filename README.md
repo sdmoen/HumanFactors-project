@@ -155,7 +155,7 @@ Trainees, students and apprentices.
 <summary></summary>
 
 <ul>
-<li>Code Institute.</li>
+<li>Code Institute love running project for social media links and center image basic structure.</li>
 <li>Mentors Akshat and Mo.</li>
 <li>EASA module 9 human factors book.</li>
 <li>Google images for the images used.</li>
